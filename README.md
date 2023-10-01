@@ -2,4 +2,8 @@
 
 # streameye-docker
 
-Build container image for streameye
+Container image for [streameye](https://github.com/ccrisan/streameye).
+
+## How to run
+
+The image is available as `davidecavestro/streameye`.
